@@ -1,4 +1,4 @@
-Don't look at it long, its worse than it looks.
+Don't look at it long, its worse than it seems.
 
 <!---
 deadLemonX/deadLemonX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
