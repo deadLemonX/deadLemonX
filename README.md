@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @deadLemonX
-- 👀 I’m interested in Blockchain, dApps, Web Develompent, and Automation
-- 🌱 I’m currently learning JavaScript, HTML, CSS, Solidity, Python
-- 💞️ I’m looking to collaborate on dApp and Web 3.0 development
-- 📫 How to reach me:
+Don't look at it long, its worse than it looks.
 
 <!---
 deadLemonX/deadLemonX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
